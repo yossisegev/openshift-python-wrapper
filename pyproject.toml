@@ -18,7 +18,7 @@ profile = "black"
 
 
 [build-system]
-requires = ["setuptools>=61.2"]
+requires = ["setuptools>=82.0.1"]
 build-backend = "setuptools.build_meta"
 
 [project]
